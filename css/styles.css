@@ -27,7 +27,7 @@ margin-left: 585px;
 
 
 	
-}
+
 .btn { 
 margin-left: 50px}
 h3 {
@@ -58,10 +58,23 @@ header {
 	background-color: #FFFFFF;
 	
 }
+.bigincluse { 
 
+margin-right: 400px;
+margin-left: 50px}
+
+.texthoodie { 
+margin-left: 50px;
+float: right;
+margin-right: 592px;}
 /* Effect on social media buttons */
-
+.sizechart{
+	margin-left: 50px;
+}
 footer a:hover {
 	opacity: .5;
+}
+.whitehoodie{
+	margin-right:150px;
 }
 
