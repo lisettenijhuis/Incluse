@@ -2,12 +2,24 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Smooch+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
 
 /* Changing the main font and background colour */
+.form-control {
+	
+	width: 600px;
+	margin-left:50px;
+}
+.form-label{
+	margin-left: 50px;
+}
+.btn { 
+margin-left: 50px}
 h3 {
 	margin-left:3px;
 }
 p{
+	font-family: 'Montserrat', sans-serif;
 	margin-left: 5px;
 	
 }
