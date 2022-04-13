@@ -5,6 +5,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Smooch+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
 
 /* Changing the main font and background colour */
+.vision{
+	
+	margin-left: 50px;
+	margin-right: 600px;
+}
 .form-control {
 	
 	width: 600px;
@@ -13,16 +18,19 @@
 .form-label{
 	margin-left: 50px;
 }
+
+
+	
+}
 .btn { 
 margin-left: 50px}
 h3 {
-	margin-left:3px;
+	margin-left:50px;
 }
 p{
 	font-family: 'Montserrat', sans-serif;
-	margin-left: 5px;
-	
 }
+
 body {
 	font-family: 'Montserrat', sans-serif;
 	background-color: #fffcf8;
