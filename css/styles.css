@@ -5,6 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Smooch+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
 
 /* Changing the main font and background colour */
+
+.btn{ 
+	background-color: #9474B1;
+margin-left: 585px; 
+	
+}
 .vision{
 	
 	margin-left: 50px;
@@ -58,3 +64,4 @@ header {
 footer a:hover {
 	opacity: .5;
 }
+
