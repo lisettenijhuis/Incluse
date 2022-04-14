@@ -13,7 +13,7 @@ margin-left: 585px;
 }
 .vision{
 	
-	margin-left: 50px;
+	margin-left: ;
 	margin-right: 600px;
 }
 .form-control {
@@ -31,7 +31,7 @@ margin-left: 585px;
 .btn { 
 margin-left: 50px}
 h3 {
-	margin-left:50px;
+	margin-left:;
 }
 p{
 	font-family: 'Montserrat', sans-serif;
@@ -61,7 +61,7 @@ header {
 .bigincluse { 
 
 margin-right: 400px;
-margin-left: 50px}
+}
 
 .texthoodie { 
 margin-left: 50px;
@@ -78,3 +78,6 @@ footer a:hover {
 	margin-right:150px;
 }
 
+.container{
+	width: 80%
+}
