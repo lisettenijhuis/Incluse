@@ -8,7 +8,7 @@
 
 .btn{ 
 	background-color: #9474B1;
-margin-left: 585px; 
+
 	
 }
 .vision{
@@ -28,8 +28,7 @@ margin-left: 585px;
 
 	
 
-.btn { 
-margin-left: 50px}
+
 
 p{
 	font-family: 'Montserrat', sans-serif;
@@ -59,19 +58,15 @@ header {
 
 
 .texthoodie { 
-margin-left: 50px;
+
 float: right;
 margin-right: 592px;}
 /* Effect on social media buttons */
-.sizechart{
-	margin-left: 50px;
-}
+
 footer a:hover {
 	opacity: .5;
 }
-.whitehoodie{
-	
-}
+
 
 .container{
 	width: 80%
